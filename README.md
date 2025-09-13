@@ -12,7 +12,6 @@
 ## 效果展示
 以下是APP各功能模块的界面展示：
 ## 效果展示
-以下是APP各功能模块的界面展示：
 <img src="./效果展示(图片版)/Screenshot_2025-08-05T232255.png" width="300" alt="截图1">
 <img src="./效果展示(图片版)/Screenshot_2025-08-06T110108.png" width="300" alt="截图2">
 <img src="./效果展示(图片版)/Screenshot_2025-08-06T110813.png" width="300" alt="截图3">
